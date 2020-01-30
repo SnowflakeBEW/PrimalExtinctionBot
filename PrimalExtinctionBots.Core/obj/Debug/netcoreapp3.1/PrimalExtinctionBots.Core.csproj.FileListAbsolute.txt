@@ -1,0 +1,11 @@
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\bin\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.deps.json
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\bin\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.dll
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\bin\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.pdb
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\bin\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.dll
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\bin\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.pdb
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\obj\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.csprojAssemblyReference.cache
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\obj\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.AssemblyInfoInputs.cache
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\obj\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.AssemblyInfo.cs
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\obj\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.csproj.CopyComplete
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\obj\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.dll
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBots.Core\obj\Debug\netcoreapp3.1\PrimalExtinctionBots.Core.pdb
