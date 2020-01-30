@@ -1,0 +1,8 @@
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL\bin\Debug\netstandard2.0\PrimalExtinctionBot.DAL.deps.json
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL\bin\Debug\netstandard2.0\PrimalExtinctionBot.DAL.dll
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL\obj\Debug\netstandard2.0\PrimalExtinctionBot.DAL.AssemblyInfoInputs.cache
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL\obj\Debug\netstandard2.0\PrimalExtinctionBot.DAL.AssemblyInfo.cs
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL\bin\Debug\netstandard2.0\PrimalExtinctionBot.DAL.pdb
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL\obj\Debug\netstandard2.0\PrimalExtinctionBot.DAL.dll
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL\obj\Debug\netstandard2.0\PrimalExtinctionBot.DAL.pdb
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL\obj\Debug\netstandard2.0\PrimalExtinctionBot.DAL.csprojAssemblyReference.cache
