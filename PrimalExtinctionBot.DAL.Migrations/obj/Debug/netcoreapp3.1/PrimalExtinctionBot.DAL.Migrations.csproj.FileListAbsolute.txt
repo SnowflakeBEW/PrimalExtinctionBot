@@ -1,0 +1,11 @@
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\bin\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.deps.json
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\bin\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.dll
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\bin\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.pdb
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\bin\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.dll
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\bin\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.pdb
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\obj\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.csprojAssemblyReference.cache
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\obj\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.AssemblyInfoInputs.cache
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\obj\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.AssemblyInfo.cs
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\obj\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.csproj.CopyComplete
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\obj\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.dll
+C:\Users\Jora\source\repos\PrimalExtinctionBot\PrimalExtinctionBot.DAL.Migrations\obj\Debug\netcoreapp3.1\PrimalExtinctionBot.DAL.Migrations.pdb
