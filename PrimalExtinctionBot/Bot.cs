@@ -1,4 +1,4 @@
-﻿using PrimalExtinctionBot.Commands;
+using PrimalExtinctionBot.Commands;
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.EventArgs;
@@ -61,6 +61,9 @@ namespace PrimalExtinction.Bots
             Commands.RegisterCommands<FunCommands>();
             Commands.RegisterCommands<RPGCommands>();
             Commands.RegisterCommands<RoleCommands>();
+            Commands.RegisterCommands<Tickets>();
+            Commands.RegisterCommands<ChanceCommands>();
+
 
             Client.ConnectAsync();
         }
